@@ -1,21 +1,49 @@
-## Contact
+<div align="center">
+  <h2>Contact</h2>
 
-![https://www.instagram.com/lfer.reira/](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)
-![https://twitter.com/useless_luh](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
-![https://www.linkedin.com/in/luan-ferreira-0a1364192/](https://img.shields.io/badge/LINKEDIN-%230077b5?&style=for-the-badge&logo=linkedin&logoColor=fff)
+  <p>
+    <a href="https://www.instagram.com/lfer.reira/">
+      <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/>
+    </a>
+    <a href="https://twitter.com/useless_luh">
+      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/luan-ferreira-0a1364192/">
+      <img src="https://img.shields.io/badge/LINKEDIN-%230077b5?&style=for-the-badge&logo=linkedin&logoColor=fff"/>
+    </a>
+  </p>
 
-## Skils
+  <h2>Skils</h2>
 
-![https://pt-br.reactjs.org/](https://img.shields.io/badge/ReactJs-%230000CD?&style=for-the-badge&logo=React&logoColor=fff)
-![https://reactnative.dev/](https://img.shields.io/badge/ReactNative-%2300BFFF?&style=for-the-badge&logo=React&logoColor=333)
-![https://nodejs.org/en/](https://img.shields.io/badge/NODEJS-%23?&style=for-the-badge&logo=Node.Js&logoColor=fff)
+  <p>
+    <a href="https://pt-br.reactjs.org/">
+      <img src="https://img.shields.io/badge/ReactJs-%230000CD?&style=for-the-badge&logo=React&logoColor=fff"/>
+    </a>
+    <a href="https://reactnative.dev">
+      <img src="https://img.shields.io/badge/ReactNative-%2300BFFF?&style=for-the-badge&logo=React&logoColor=333"/>
+    </a>
+    <a href="https://nodejs.org/en/">
+      <img src="https://img.shields.io/badge/NODEJS-%23?&style=for-the-badge&logo=Node.Js&logoColor=fff"/>
+    </a>
+  </p>
 
-## Programms Languages
+  <h2>Programming languages</h2>
 
-![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/typescript-%234169E1.svg?&style=for-the-badge&logo=typescript&logoColor=black)
-![](https://img.shields.io/badge/html-%23B22222.svg?&style=for-the-badge&logo=html5&logoColor=black)
-![](https://img.shields.io/badge/css-%2300CED1.svg?&style=for-the-badge&logo=css3&logoColor=black)
+  <p>
+    <a href="#">
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/typescript-%234169E1.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/html-%23B22222.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/css-%2300CED1.svg?&style=for-the-badge&logo=css3&logoColor=black"/>
+    </a>
+  </p>
+</div>
 
 ## Hi there 👋
 
