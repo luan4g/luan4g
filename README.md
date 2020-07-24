@@ -1,3 +1,22 @@
+## Contact
+
+![](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)
+![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+![](https://img.shields.io/badge/LINKEDIN-%230077b5?&style=for-the-badge&logo=linkedin&logoColor=fff)
+
+## Skils
+
+![](https://img.shields.io/badge/ReactJs-%230000CD?&style=for-the-badge&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/ReactNative-%2300BFFF?&style=for-the-badge&logo=React&logoColor=333)
+![](https://img.shields.io/badge/NODEJS-%23?&style=for-the-badge&logo=Node.Js&logoColor=fff)
+
+## Programms Languages
+
+![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/typescript-%234169E1.svg?&style=for-the-badge&logo=typescript&logoColor=black)
+![](https://img.shields.io/badge/html-%23B22222.svg?&style=for-the-badge&logo=html5&logoColor=black)
+![](https://img.shields.io/badge/css-%2300CED1.svg?&style=for-the-badge&logo=css3&logoColor=black)
+
 ## Hi there 👋
 
 Eu me chamo Luan, e programo a um bom tempo ─ 2 à 3 anos ─ e sempre fui apaixonado pelos limites que a programação tirou de minha vida. Eu sou apaixonado por jogos de aventura, para mim  ✨ _design_ ✨ é minha vida e desenvolvimento ✨ _web e mobile_ ✨ são minha alma.
