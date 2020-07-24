@@ -1,4 +1,5 @@
 <div align="center">
+
   <h2>Contact</h2>
 
   <p>
@@ -43,6 +44,7 @@
       <img src="https://img.shields.io/badge/css-%2300CED1.svg?&style=for-the-badge&logo=css3&logoColor=black"/>
     </a>
   </p>
+
 </div>
 
 ## Hi there 👋
