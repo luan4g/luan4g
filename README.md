@@ -1,14 +1,14 @@
 ## Contact
 
-![](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)
-![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
-![](https://img.shields.io/badge/LINKEDIN-%230077b5?&style=for-the-badge&logo=linkedin&logoColor=fff)
+![https://www.instagram.com/lfer.reira/](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)
+![https://twitter.com/useless_luh](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+![https://www.linkedin.com/in/luan-ferreira-0a1364192/](https://img.shields.io/badge/LINKEDIN-%230077b5?&style=for-the-badge&logo=linkedin&logoColor=fff)
 
 ## Skils
 
-![](https://img.shields.io/badge/ReactJs-%230000CD?&style=for-the-badge&logo=React&logoColor=fff)
-![](https://img.shields.io/badge/ReactNative-%2300BFFF?&style=for-the-badge&logo=React&logoColor=333)
-![](https://img.shields.io/badge/NODEJS-%23?&style=for-the-badge&logo=Node.Js&logoColor=fff)
+![https://pt-br.reactjs.org/](https://img.shields.io/badge/ReactJs-%230000CD?&style=for-the-badge&logo=React&logoColor=fff)
+![https://reactnative.dev/](https://img.shields.io/badge/ReactNative-%2300BFFF?&style=for-the-badge&logo=React&logoColor=333)
+![https://nodejs.org/en/](https://img.shields.io/badge/NODEJS-%23?&style=for-the-badge&logo=Node.Js&logoColor=fff)
 
 ## Programms Languages
 
