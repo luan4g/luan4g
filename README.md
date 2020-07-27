@@ -14,7 +14,7 @@
     </a>
   </p>
 
-  <h2>Skils</h2>
+  <h2>Skills</h2>
 
   <p>
     <a href="https://pt-br.reactjs.org/">
