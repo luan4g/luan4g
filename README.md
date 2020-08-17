@@ -55,7 +55,7 @@ Estou buscando participar mais deste mercado de programadores, e para conseguir 
 
 ## :telescope: No que estou trabalhando
 
-Atualmente estou trabalhando em um projeto criado por mim, chamado "**Triptych**" que visa uma nova comidade para as pessoas possam interagir
+Atualmente estou trabalhando em um projeto criado por mim, chamado "**Triptych**" que visa uma nova comidade para que as pessoas possam interagir
 
 ##  :seedling: O que estou buscando aprender
 
