@@ -3,11 +3,8 @@
   <h2>Contact</h2>
 
   <p>
-    <a href="https://www.instagram.com/lfer.reira/">
+    <a href="https://www.instagram.com/luan.ferreira.n/">
       <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/>
-    </a>
-    <a href="https://twitter.com/useless_luh">
-      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/luan-ferreira-0a1364192/">
       <img src="https://img.shields.io/badge/LINKEDIN-%230077b5?&style=for-the-badge&logo=linkedin&logoColor=fff"/>
@@ -20,6 +17,9 @@
     <a href="https://pt-br.reactjs.org/">
       <img src="https://img.shields.io/badge/ReactJs-%230000CD?&style=for-the-badge&logo=React&logoColor=fff"/>
     </a>
+    <a href="https://nodejs.org/en/">
+      <img src="https://img.shields.io/badge/NEXTJS-%23000?&style=for-the-badge&logo=Next.js&logoColor=fff"/>
+    </a>
     <a href="https://reactnative.dev">
       <img src="https://img.shields.io/badge/ReactNative-%2300BFFF?&style=for-the-badge&logo=React&logoColor=333"/>
     </a>
@@ -31,18 +31,11 @@
   <h2>Programming languages</h2>
 
   <p>
-    <a href="#">
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/typescript-%234169E1.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/html-%23B22222.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/css-%2300CED1.svg?&style=for-the-badge&logo=css3&logoColor=black"/>
-    </a>
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/typescript-%234169E1.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
+    <img src="https://img.shields.io/badge/css-%2300CED1.svg?&style=for-the-badge&logo=css3&logoColor=black"/>
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=black"/>
   </p>
 
 </div>
