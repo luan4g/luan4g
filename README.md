@@ -53,10 +53,6 @@ Eu me chamo Luan, e programo a um bom tempo ─ 2 à 3 anos ─ e sempre fui apa
 
 Estou buscando participar mais deste mercado de programadores, e para conseguir isso, estou me desenvolendo mais, buscando aprender mais e mais com a comunidade.
 
-## :telescope: No que estou trabalhando
-
-Atualmente estou trabalhando em um projeto criado por mim, chamado "**Triptych**" que visa uma nova comidade para que as pessoas possam interagir
-
 ##  :seedling: O que estou buscando aprender
 
 Como esta comunidade de programadores é enorme, e sempre existe o que estudar, no momento estou buscando aprimorar os conhecimentos que já possuo, para que assim eu possa desenvolver meus projetos de maneira mais eficaz e profissional.
